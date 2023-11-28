@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html> 
-<heat>
-<title>  My web </title>    
-</heat>
 <body>
 <img src="E.jpg" width="1000" height="150"> 
 <h1 style="color:green;"> College Science and <br> Technology</h1>
